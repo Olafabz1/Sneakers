@@ -1,0 +1,120 @@
+body{
+margin-left: 50px;
+padding-top: 20px;
+}
+h1{
+text-transform: lowercase;
+font-size: 20px; 
+ 
+}
+li{
+display: inline;
+margin-left:20px;
+color: gray;
+font-size: small;
+}
+.cart{
+width: 10px;
+ margin-left: 20px;   
+}
+.avatar{
+width:20px;
+ margin-left:9px;  
+}
+nav{
+display: flex;
+font-family:'Kumbh Sans';
+ 
+padding-left:150px ;
+}
+hr{
+opacity: 0.3;
+}
+.large{
+width:20rem;
+margin:16px 10px 20px 20px ;    
+border-radius: 10px;
+}
+.small{
+     margin-left:40px;
+        
+}
+.one{
+     width:4em; 
+    border:3px solid orangered;
+     opacity: 0.3;
+     border-radius:8px;   
+}
+.two{
+width: 4em;
+margin-left:10px;
+border-radius:8px;
+}
+.three{
+width: 4em;
+margin-left: 10px;
+border-radius: 8px;
+}
+.four{
+width:4em;
+margin-left: 10px;
+border-radius: 8px;
+}
+
+#coy{
+     color:orangered ;
+     margin-left: 10px;
+     font-size:10px;
+}
+#type{
+     font-weight:bold;
+     font-size: 30px;
+     margin-left: 10px;
+     margin-top:-10px ;
+    
+}
+#description{
+     color: grey;
+     margin-left: 10px;
+     margin-top: -5px;
+    
+}
+.enquiry{
+    display: flex;   
+}
+.amount{
+     display: flex;
+     margin-left: 15px;
+}
+#dollar{
+     font-weight: bold;
+     font-size: 20px;
+}
+#percent{
+    margin-left:20px ; 
+    border: 3px solid whitesmoke;
+    background-color:rgba(255, 160, 122, 0.38);
+    width: 3em;
+    height:2% ;
+    border-radius:6px;
+    text-align: center;
+    color:orangered;
+    font-weight: bold;
+    
+}
+.detail{
+     margin-left: 80px;
+    margin-top:40px;
+}
+p del{
+ margin-left:12px;
+ opacity: 0.4;
+padding-top:-25px;   
+}
+.basket{
+     width:15px;
+}
+
+
+
+
